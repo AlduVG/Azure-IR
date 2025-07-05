@@ -1,5 +1,7 @@
 # Microsoft Sentinel IR practice
 
+> 🛠️ **This project is a work in progress.** It will continue to evolve as new information is updated.
+
 ## Brute Force attempts
 
 ![IR-Azure-1](https://github.com/user-attachments/assets/800154a8-7b39-4fc8-8aed-232f4461460a)

@@ -4,6 +4,9 @@
 
 ## Brute Force attempts
 
+For documentation purposes, the following section focuses on a brute force attack targeting the Windows virtual machine. Although similar brute force alerts were also detected on the Linux VM, these will be closed as false positives without further analysis to avoid redundancy. The attack pattern was essentially the same, differing only in the operating system being targeted.
+
+
 ![IR-Azure-1](https://github.com/user-attachments/assets/800154a8-7b39-4fc8-8aed-232f4461460a)
 
 ### Summary
